@@ -1,0 +1,10 @@
+.\objects\qrinput.o: ..\QRCODE\qrinput.c
+.\objects\qrinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\qrinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\qrinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\qrinput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\qrinput.o: ..\QRCODE\qrencode.h
+.\objects\qrinput.o: ..\QRCODE\qrspec.h
+.\objects\qrinput.o: ..\QRCODE\mqrspec.h
+.\objects\qrinput.o: ..\QRCODE\bitstream.h
+.\objects\qrinput.o: ..\QRCODE\qrinput.h

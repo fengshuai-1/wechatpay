@@ -1,0 +1,9 @@
+.\objects\qrspec.o: ..\QRCODE\qrspec.c
+.\objects\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\qrspec.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\objects\qrspec.o: ..\QRCODE\qrspec.h
+.\objects\qrspec.o: ..\QRCODE\qrencode.h
+.\objects\qrspec.o: ..\QRCODE\qrinput.h
+.\objects\qrspec.o: ..\QRCODE\bitstream.h
